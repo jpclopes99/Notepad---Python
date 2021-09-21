@@ -1,7 +1,6 @@
 from tkinter.constants import BOTH, END, INSERT, LEFT, TRUE, WORD
 from tkinter.filedialog import *
 import tkinter as tk
-import easygui
 
 
 
